@@ -1,0 +1,7 @@
+Each folder contains the .gha file for each experiment.
+Each folder also contains a grasshopper script "MainScript" with the modules setup already.
+
+Note that only experiment .gha file can be present in the components folder in grasshopper at a time as the components share guid.
+
+Source code in c# as well as visual studio project is available in the "CellsThesis" subfolder.
+The code is organized such that each file with the prefix "ghc" contains the modules within grasshopper, while the rest of the code contains classes and methods used in the code.
