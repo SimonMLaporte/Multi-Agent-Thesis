@@ -1,7 +1,7 @@
 # CellsThesis
 This repos contains my work for my master thesis. All code is solely written by me.
 
-Each folder contains the .gha file for each experiment. To install add the file to your grasshopper "components" folder and restart rhino.
+Each folder contains the .gha file for each experiment. To install, add the file to your grasshopper "components" folder and restart rhino.
 Each folder contains a grasshopper script with the modules setup.
 Each folder contain an environment that must be downloaded and the filepath of the bitmap must refer to the corresponding bitmap.
 
@@ -10,6 +10,6 @@ Note that only experiment .gha file can be present in the components folder in g
 Source code in c# as well as visual studio project is available in the "CellsThesis" subfolder.
 The code is organized such that each file with the prefix "ghc" contains the modules within grasshopper, while the rest of the code contains classes and methods used in the code.
 
-DEPENDENCIES:
-Squid for image file generation: https://www.food4rhino.com/en/app/squid
+DEPENDENCIES:  
+Squid for image file generation: https://www.food4rhino.com/en/app/squid  
 Karamba3d for bridge fitness evaluation: https://www.karamba3d.com/ (Note payed liscense is required)
