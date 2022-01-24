@@ -1,5 +1,5 @@
 # Thesis repo
-This repos contains my work for my master thesis. All code is solely written by me.
+This repos contains my work for my master thesis. All code is solely written by me, but is inspired by the Physarum Polycephalum algorithm written by Jeff Jones.
 
 Each folder contains the .gha file for each experiment. To install, add the file to your grasshopper "components" folder and restart rhino.  
 Each folder contains a grasshopper script with the modules setup.  
